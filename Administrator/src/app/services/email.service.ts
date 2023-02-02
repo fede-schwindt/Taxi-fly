@@ -5,7 +5,7 @@ import {Http, Request, RequestMethod} from "@angular/http";
 
 @Injectable()
 export class EmailService {
-  taxihub: string = 'taxihub24@gmail.com'; //replace with your company email.
+  taxihub: string = 'fedesch9@gmail.com'; //replace with your company email.
   http: Http;
   mailgunUrl: string;
   mailgunApiKey: string;
