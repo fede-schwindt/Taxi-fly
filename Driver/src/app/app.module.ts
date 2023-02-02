@@ -39,13 +39,13 @@ import { ProfileService } from './services/profile.service';
 import { AcceptPage } from './pages/accept/accept.page';
 
 export const firebaseConfig = {
-  apiKey: 'AIzaSyAO4_MxVQeE5O78fm-fEgv3vdKe-EFP5Uc',
-  authDomain: 'isaiahlatest.firebaseapp.com',
-  databaseURL: 'https://isaiahlatest.firebaseio.com',
-  projectId: 'isaiahlatest',
-  storageBucket: 'isaiahlatest.appspot.com',
-  messagingSenderId: '311037467997',
-  appId: '1:311037467997:web:5de9fc641c762b7f'
+  apiKey: "AIzaSyDDeNo2RqB6hdVhZNYDNG8HjqF9m4_H8XQ",
+  authDomain: "flytaxi-642d4.firebaseapp.com",
+  databaseURL: "https://flytaxi-642d4-default-rtdb.firebaseio.com",
+  projectId: "flytaxi-642d4",
+  storageBucket: "flytaxi-642d4.appspot.com",
+  messagingSenderId: "482104240102",
+  appId: "1:482104240102:web:05c77b1e2c290426acd827"
 };
 
 firebase.initializeApp(firebaseConfig);

@@ -27,11 +27,11 @@ import * as firebase from 'firebase';
 import { IonicStorageModule } from '@ionic/storage';
 
 export const firebaseConfig = {
-  apiKey: "XXXXXXXXXXXXXXXXXXXXXXX",
-  authDomain: "XXXXXXXXXXXXXXXXX",
-  databaseURL: "XXXXXXXXXXXXXXXXXXXXXXXX",
-  storageBucket: "XXXXXXXXXXXXXXXXXXXXXXXXXXX",
-  messagingSenderId: "XXXXXXXXXXXXXXXX"
+  apiKey: "AIzaSyDDeNo2RqB6hdVhZNYDNG8HjqF9m4_H8XQ",
+  authDomain: "flytaxi-642d4.firebaseapp.com",
+  databaseURL: "https://flytaxi-642d4-default-rtdb.firebaseio.com",
+  storageBucket: "flytaxi-642d4.appspot.com",
+  messagingSenderId: "482104240102",
 };
 
 firebase.initializeApp(firebaseConfig);
