@@ -126,7 +126,7 @@ export class HomePage {
     this.platform.ready().then(() => {
       if (!this.platform.is('cordova')) {
 
-        this.notify_ID = '43cd6829-4651-4039-bbc3-aace7fbe7d72';
+        this.notify_ID = 'd5476975-8c92-44df-885a-b0418f9e05ac';
 
       } else {
 
@@ -136,7 +136,7 @@ export class HomePage {
 
       }
 
-      this.notify_ID = '43cd6829-4651-4039-bbc3-aace7fbe7d72';
+      this.notify_ID = 'd5476975-8c92-44df-885a-b0418f9e05ac';
     });
   }
 
