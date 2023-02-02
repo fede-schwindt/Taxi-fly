@@ -1,39 +1,37 @@
 {
   "project_info": {
-    "project_number": "123",
-    "firebase_url": "https://cordova-plugin-firebase.firebaseio.com",
-    "project_id": "cordova-plugin-firebase",
-    "storage_bucket": "cordova-plugin-firebase.appspot.com"
+    "project_number": "482104240102",
+    "firebase_url": "https://flytaxi-642d4-default-rtdb.firebaseio.com",
+    "project_id": "flytaxi-642d4",
+    "storage_bucket": "flytaxi-642d4.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:123:android:123",
+        "mobilesdk_app_id": "1:482104240102:android:13cb100a72f0d3bfacd827",
         "android_client_info": {
-          "package_name": "com.github.cordova_plugin_firebase"
+          "package_name": "com.flytaxi.flytaxi"
         }
       },
       "oauth_client": [
         {
-          "client_id": "123.apps.googleusercontent.com",
+          "client_id": "482104240102-0bgoquma42h89rbmo9hcfc2uclkg97lp.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "123"
+          "current_key": "AIzaSyC39benp2ZMEMwS1xuz3PGJYNEtDHpcOco"
         }
       ],
       "services": {
-        "analytics_service": {
-          "status": 1
-        },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
-        },
-        "ads_service": {
-          "status": 2
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482104240102-0bgoquma42h89rbmo9hcfc2uclkg97lp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
