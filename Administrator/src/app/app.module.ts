@@ -37,14 +37,12 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 
 
 export const firebaseConfig = {
-  apiKey: "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
-  authDomain: "XXXXXXXXXXXXXXXXX",
-  databaseURL: "XXXXXXXXXXXXXXXXXXXXXXXXXX",
-  storageBucket: "XXXXXXXXXXXXXXXX",
-  messagingSenderId: "XXXXXXXXXXXXXX"
+  apiKey: "AIzaSyDDeNo2RqB6hdVhZNYDNG8HjqF9m4_H8XQ",
+  authDomain: "flytaxi-642d4.firebaseapp.com",
+  databaseURL: "https://flytaxi-642d4-default-rtdb.firebaseio.com",
+  storageBucket: "flytaxi-642d4.appspot.com",
+  messagingSenderId: "482104240102",
 };
-
-
 
 export const ROUTES: Routes = [
   { path: '', component: LoginComponent },
