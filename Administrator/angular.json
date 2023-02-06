@@ -33,7 +33,7 @@
             "styles": [
               "./node_modules/@angular/material/prebuilt-themes/deeppurple-amber.css",
               "src/styles/base/_variables.scss",
-              "src/global.scss"
+              "src/styles.scss"
             ],
             "scripts": [],
             "aot": false,
